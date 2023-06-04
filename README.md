@@ -34,6 +34,7 @@ Program to implement the SVM For Spam Mail Detection..
 Developed by: N.Kishore
 RegisterNumber: 212222240049
 */
+
 import chardet
 file="/content/spam.csv"
 with open(file,"rb") as rawdata:
